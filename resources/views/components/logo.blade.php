@@ -1,0 +1,1 @@
+<img {{ $attributes }} class="mx-auto h-10 sm:h-16 aspect-square rounded-md">
